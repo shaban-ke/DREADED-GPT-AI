@@ -449,7 +449,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ 𝐒𝐇𝐄𝐁𝐀𝐍 𝐁𝐎𝐓 ]═──▸
+let cap = `┌───═[ ROHIT ]═──▸
 
 ▯ ʜᴇʟʟᴏ ɪᴛ'ꜱ (ᴅʀᴇᴀᴅᴇᴅ ʙᴏᴛ) ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ. ʙᴇʟᴏᴡ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.
 ▯
