@@ -449,7 +449,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑 6𝖜𝖟𝖉𝖇𝖗 ]═──▸
+let cap = `┌───═[ 𝕀𝕥𝕫 𝕊𝕙𝕖𝕓𝕒𝕟 ]═──▸
 
 ▯ ʜᴇʟʟᴏ ɪᴛ'ꜱ (ᴅʀᴇᴀᴅᴇᴅ ʙᴏᴛ) ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ. ʙᴇʟᴏᴡ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.
 ▯
