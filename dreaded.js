@@ -449,7 +449,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ ℕ𝕒𝕤𝕙𝕝𝕪💌 ]═──▸
+let cap = `┌───═[ 🅖︎🅡︎🅞︎🅖︎🅤︎ the 𓃵 ]═──▸
 
 ▯ ʜᴇʟʟᴏ ɪᴛ'ꜱ (ᴅʀᴇᴀᴅᴇᴅ ʙᴏᴛ) ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ. ʙᴇʟᴏᴡ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.
 ▯
