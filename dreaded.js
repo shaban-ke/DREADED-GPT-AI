@@ -449,7 +449,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ Makutesa ]═──▸
+let cap = `┌───═[ Gnarlyreynolds ]═──▸
 
 ▯ ʜᴇʟʟᴏ ɪᴛ'ꜱ (ᴅʀᴇᴀᴅᴇᴅ ʙᴏᴛ) ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ. ʙᴇʟᴏᴡ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.
 ▯
