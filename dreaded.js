@@ -1,4 +1,4 @@
-
+3
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require("@whiskeysockets/baileys");
 const fs = require("fs");
 const util = require("util");
@@ -449,7 +449,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ Stellacate ]═──▸
+let cap = `┌───═[ Lucky deblue ]═──▸
 
 ▯ ʜᴇʟʟᴏ ɪᴛ'ꜱ (ᴅʀᴇᴀᴅᴇᴅ ʙᴏᴛ) ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ. ʙᴇʟᴏᴡ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.
 ▯
